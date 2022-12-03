@@ -14,3 +14,10 @@ cat single-linux-eol.txt | grep '^[a-z][a-z][a-z][a-z]$' > dict4.txt
 
 The answer word lists are extracted in the exact same way, but from much smaller dictionaries including only most common words. Oxford 5000 was used for this projects.
 Note that it's usually stored as Oxford 3000 plus Oxford 5000, the latter including only 3001-5000 word range. These lists can be found [here](https://github.com/jnoodle/English-Vocabulary-Word-List) among other places.
+
+## How to run
+Just go to the folder you checked it out into and serve with a simple HTTP server:
+```
+python3 -m http.server
+```
+Enjoy your 6-letter Wordle at <http://localhost:8000/index6.html>, same for 3-er to 7-er.

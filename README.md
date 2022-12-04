@@ -1,6 +1,8 @@
 # nwordle
 3-7 letter Wordle based on Oxford 5000 list (answers) with the check lists derived from [Moby Project's SINGLE.TXT](https://www.gutenberg.org/files/3201/files/SINGLE.TXT).
 
+There's no license to it as it's 99% Josh Wardle's code lifted from the original website well before NYT's acquisition, use at your own discretion. As for myself, I started messing around with it in order to make 3- and 4-letter versions of it with only the most common words used in the answer list, so that my 5-yo daughter could practise spelling.
+
 ## Word list preparation scripts (macOS)
 * Download SINGLE.TXT (single words excluding proper nouns, acronyms, compound words and phrases, but including archaic words and significant variant spellings, according to Wikipedia);
 * Remove silly Windows-style line endings:

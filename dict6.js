@@ -100,8 +100,9 @@ const wordList = [
 'device','decide','extend','button','copper','export','latest','insult',
 'likely','patrol','mobile','access','regain','liable','either','recall',
 'racial','reason','famous'];
-// from American English dictionary bundled with Ubuntu
+// from American English dictionary bundled with Ubuntu (with some extra words which were mysteriously missing, many thanks to Khun Howard)
 const guessList = [
+    'twisty','easter','entree',
     'abacus','abased','abases','abated','abates','abbess','abbeys','abbots','abduct','abhors','abided','abides','abject','abjure','ablaze','ablest',
     'abloom','aboard','abodes','aborts','abound','abrade','abroad','abrupt','absent','absorb','absurd','abused','abuser','abuses','acacia','accede',
     'accent','accept','access','accord','accost','accrue','accuse','acetic','achier','aching','acidic','acidly','acorns','acquit','across','acting',

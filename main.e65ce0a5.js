@@ -1046,7 +1046,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
     var Za = "IN_PROGRESS",
         es = "WIN",
         as = "FAIL",
-        ss = ["Cheater", "Genius", "Magnificent", "Impressive", "Splendid", "Great", "Phew", "Phew", "Phew", "Phew"],
+        ss = ["Lucky bastard!", "Geng mak, Howard!", "Not too shabby", "Don't buy lottery tickets today", "Meh", "Phew", "Phew", "Phew", "Phew", "Phew"],
         ts = function(e) {
             r(t, e);
             var a = h(t);

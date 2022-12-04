@@ -1,5 +1,5 @@
 # nwordle
-3-7 letter Wordle based on Oxford 5000 list (answers) with the check lists derived from [Moby Project's SINGLE.TXT](https://www.gutenberg.org/files/3201/files/SINGLE.TXT).
+3-7 letter Wordle based on Oxford 5000 list (answers) with the check lists derived from Ubuntu's built-in American English dictionary. Moby Project's SINGLE.TXT can be used as well (as described below), but it contains too many junk pseudowords imo.
 
 There's no license to it as it's 99% Josh Wardle's code lifted from the original website well before NYT's acquisition, use at your own discretion. As for myself, I started messing around with it in order to make 3- and 4-letter versions of it with only the most common words used in the answer list, so that my 5-yo daughter could practise spelling.
 
@@ -13,9 +13,17 @@ tr -d '\r' < single.txt > single-linux-eol.txt
 ```
 cat single-linux-eol.txt | grep '^[a-z][a-z][a-z][a-z]$' > dict4.txt
 ```
+* Convert the plain text word list into a JS string array (requires building my C++ converter code first):
+```
+clang++ words-to-js.cpp -std=c++17 -o words-to-js
+./words-to-js dict4.txt 16 > dict4.js
+```
 
-The answer word lists are extracted in the exact same way, but from much smaller dictionaries including only most common words. Oxford 5000 was used for this projects.
-Note that it's usually stored as Oxford 3000 plus Oxford 5000, the latter including only 3001-5000 word range. These lists can be found [here](https://github.com/jnoodle/English-Vocabulary-Word-List) among other places.
+The answer word lists are extracted in the exact same way, but from much smaller dictionaries including only most common words. Oxford 5000 was used for this projects. Note that it's usually stored as Oxford 3000 plus Oxford 5000, the latter including only 3001-5000 word range. These lists can be found [here](https://github.com/jnoodle/English-Vocabulary-Word-List) among other places.
+The answer list also needs to be randomly shuffled:
+```
+cat oxford3000.txt oxford5000.txt | grep '^[a-z][a-z][a-z][a-z]$' | gshuf > dict4.txt
+```
 
 ## How to run
 Just go to the folder you checked it out into and serve with a simple HTTP server:

@@ -32,6 +32,13 @@ python3 -m http.server
 ```
 Enjoy your 6-letter Wordle at <http://localhost:8000/index6.html>, same for 3-er (too easy) to 7-er (torturous).
 
+It is also deployed via GitHub Pages, so you can test it out here right away: <br>
+https://witaly-iwanow.github.io/nwordle/index3.html<br>
+https://witaly-iwanow.github.io/nwordle/index4.html<br>
+https://witaly-iwanow.github.io/nwordle/index5.html<br>
+https://witaly-iwanow.github.io/nwordle/index6.html<br>
+https://witaly-iwanow.github.io/nwordle/index7.html
+
 ## Screenshots
 <img width="508" alt="Screenshot 2022-12-04 at 10 53 49" src="https://user-images.githubusercontent.com/37587207/205473494-79fb4e5e-a3b7-413d-b1b0-afa7664d6844.png">
 

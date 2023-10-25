@@ -484,7 +484,7 @@ const guessList = [
     'staffs','staged','stages','stains','stairs','staked','stakes','staled','staler','stales','stalks','stalls','stamen','stamps','stance','stanch',
     'stands','stanza','staple','starch','stared','stares','starry','starts','starve','stated','stater','states','static','statue','status','staved',
     'staves','stayed','steads','steady','steaks','steals','steams','steamy','steeds','steels','steely','steeps','steers','steins','stench','stents',
-    'steppe','stereo','sterna','sterns','stewed','sticks','sticky','stiffs','stifle','stigma','stiles','stills','stilts','stings','stingy','stinks',
+    'steppe','stereo','sterna','sterns','stewed','sticks','sticky','stiffs','stiffy','stifle','stigma','stiles','stills','stilts','stings','stingy','stinks','stinky',
     'stints','stitch','stoats','stocks','stocky','stodgy','stoics','stoked','stoker','stokes','stolen','stoles','stolid','stomps','stoned','stoner',
     'stones','stoney','stooge','stools','stoops','stored','stores','storey','storks','storms','stormy','stoves','stowed','strafe','strain','strait',
     'strand','straps','strata','straws','strays','streak','stream','street','stress','strewn','strews','strict','stride','strife','strike','string',

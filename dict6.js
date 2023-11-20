@@ -424,7 +424,7 @@ const guessList = [
     'relaid','relate','relays','relent','relics','relied','relief','relies','relish','relive','reload','remade','remain','remake','remand','remark',
     'remedy','remind','remiss','remits','remote','remove','rename','render','renege','renews','rennet','renown','rental','rented','renter','reopen',
     'reorgs','repaid','repair','repast','repays','repeal','repeat','repels','repent','replay','report','repose','repute','reread','reruns','resale',
-    'rescue','resell','resend','resent','resets','reside','resign','resins','resist','resold','resort','rested','result','resume','retail','retain',
+    'rescue','resell','resend','resent','resets','reside','resign','resins','resist','resize','resold','resort','rested','result','resume','retail','retain',
     'retake','retard','retell','retina','retire','retold','retook','retool','retort','retrod','return','retype','reused','reuses','revamp','reveal',
     'revels','revere','revert','revery','review','revile','revise','revive','revoke','revolt','revues','revved','reward','rewind','rewire','reword',
     'rework','rheumy','rhinos','rhombi','rhymed','rhymes','rhythm','ribald','ribbed','ribbon','richer','riches','richly','ricing','ricked','ridded',

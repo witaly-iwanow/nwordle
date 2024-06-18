@@ -381,7 +381,7 @@ const guessList = [
     'parent','pariah','paring','parish','parity','parkas','parked','parlay','parley','parlor','parody','parole','parred','parrot','parsec','parsed',
     'parser','parses','parson','parted','partly','pashas','passed','passel','passer','passes','pastas','pasted','pastel','pastes','pastor','pastry',
     'patchy','patent','pathos','patina','patine','patios','patois','patrol','patron','patted','patter','paunch','pauper','paused','pauses','paving',
-    'pawing','pawned','pawpaw','payday','payees','payers','paying','payoff','peaces','peahen','peaked','pealed','peanut','pearls','pearly','pebble',
+    'pawing','pawned','pawpaw','payday','payees','payers','paying','payoff','peaces','peachy','peahen','peaked','pealed','peanut','pearls','pearly','pebble',
     'pebbly','pecans','pecked','pectin','pedals','pedant','peddle','pedlar','peeing','peeked','peeled','peeped','peeper','peered','peeved','peeves',
     'peewee','pegged','pellet','pelted','pelves','pelvic','pelvis','pencil','pended','penile','penned','pennon','penury','people','pepped','pepper',
     'pepsin','peptic','perils','period','perish','perked','permed','permit','person','perter','pertly','peruse','peseta','pester','pestle','petals',

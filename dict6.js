@@ -535,7 +535,7 @@ const guessList = [
     'vector','veered','vegans','veggie','veiled','veined','veldts','vellum','velour','velvet','vended','vender','vendor','veneer','venial','venous',
     'vented','venues','verbal','verged','verges','verier','verify','verily','verity','vermin','vernal','versed','verses','versus','vertex','vesper',
     'vessel','vested','vestry','vetoed','vetoes','vetted','vexing','viable','viands','vicars','vicing','victim','victor','videos','viewed','viewer',
-    'vigils','vilely','vilest','vilify','villas','vinyls','violas','violet','violin','vipers','virago','vireos','virgin','virile','virtue','visaed',
+    'vigils','vilely','vilest','vilify','villas','vinery','vinyls','violas','violet','violin','vipers','virago','vireos','virgin','virile','virtue','visaed',
     'visage','viscid','viscus','vising','vision','visits','visors','vistas','visual','vitals','vivace','vivify','vixens','vizier','vizors','vocals',
     'vogues','voiced','voices','voided','volley','volume','vomits','voodoo','vortex','votary','voters','voting','votive','vowels','vowing','voyage',
     'voyeur','vulgar','vulvae','vulvas','wacker','wackos','wadded','waddle','waders','wading','wafers','waffle','wafted','wagers','wagged','waggle',

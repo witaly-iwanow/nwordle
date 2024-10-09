@@ -1,7 +1,7 @@
 # nwordle
 3-7 letter Wordle based on Oxford 5000 list (answers) with the check lists derived from Ubuntu's built-in American English dictionary. Moby Project's SINGLE.TXT can be used as well (as described below), but it contains too many junk pseudowords imo.
 
-There's no license to it as it's 99% Josh Wardle's code lifted from the original website well before NYT's acquisition, use at your own discretion. As for myself, I started messing around with it in order to make 3- and 4-letter versions of it with only the most common words used in the answer list, so that my 5-yo daughter could practise spelling.
+There's no license to it as it's 99% Josh Wardle's code lifted from the original website well before NYT's acquisition, use at your own discretion. As for myself, I started messing around with it in order to make 3- and 4-letter versions of it with only the most common words used in the answer list, so that my 5-yo daughter could practice spelling.
 
 ## Word list preparation scripts (macOS)
 * Download SINGLE.TXT (single words excluding proper nouns, acronyms, compound words and phrases, but including archaic words and significant variant spellings, according to Wikipedia);
@@ -31,13 +31,6 @@ Just go to the folder you checked it out into and serve with a simple HTTP serve
 python3 -m http.server
 ```
 Enjoy your 6-letter Wordle at <http://localhost:8000/index6.html>, same for 3-er (too easy) to 7-er (torturous).
-
-It is also deployed via GitHub Pages, so you can test it out here right away: <br>
-https://witaly-iwanow.github.io/nwordle/index3.html<br>
-https://witaly-iwanow.github.io/nwordle/index4.html<br>
-https://witaly-iwanow.github.io/nwordle/index5.html<br>
-https://witaly-iwanow.github.io/nwordle/index6.html<br>
-https://witaly-iwanow.github.io/nwordle/index7.html
 
 ## Screenshots
 <img width="508" alt="Screenshot 2022-12-04 at 10 53 49" src="https://user-images.githubusercontent.com/37587207/205473494-79fb4e5e-a3b7-413d-b1b0-afa7664d6844.png">

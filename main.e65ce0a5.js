@@ -1196,9 +1196,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
                 key: "connectedCallback",
                 value: function() {
                     var e = this;
-                    this.shadowRoot.appendChild(Ka.content.cloneNode(!0)), this.$game = this.shadowRoot.querySelector("#game"), this.$board = this.shadowRoot.querySelector("#board"), this.$keyboard = this.shadowRoot.querySelector("game-keyboard"), this.sizeBoard(), this.lastPlayedTs || setTimeout((function() {
-                        return e.showHelpModal()
-                    }), 100);
+                    this.shadowRoot.appendChild(Ka.content.cloneNode(!0)), this.$game = this.shadowRoot.querySelector("#game"), this.$board = this.shadowRoot.querySelector("#board"), this.$keyboard = this.shadowRoot.querySelector("game-keyboard"), this.sizeBoard();
                     for (var a = 0; a < NUM_GUESSES; a++) {
                         var s = document.createElement("game-row");
                         s.setAttribute("letters", this.boardState[a]), s.setAttribute("length", NUM_LETTERS), this.evaluations[a] && (s.evaluation = this.evaluations[a]), this.$board.appendChild(s)

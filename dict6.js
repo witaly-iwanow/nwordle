@@ -179,7 +179,7 @@ const guessList = [
     'clasps','classy','clause','clawed','clayey','cleans','clears','cleats','cleave','clefts','clench','clergy','cleric','clerks','clever','clewed',
     'clicks','client','cliffs','climax','climbs','climes','clinch','clings','clingy','clinic','clinks','clique','cloaks','cloche','clocks','clomps',
     'cloned','clones','closed','closer','closes','closet','clothe','cloths','clouds','cloudy','clouts','cloven','clover','cloves','clowns','cloyed',
-    'clucks','cluing','clumps','clumsy','clunks','clunky','clutch','coaled','coarse','coasts','coated','coaxed','coaxes','cobalt','cobble','cobras',
+    'clucks','cluing','clumps','clumpy','clumsy','clunks','clunky','clutch','coaled','coarse','coasts','coated','coaxed','coaxes','cobalt','cobble','cobras',
     'cobweb','coccis','coccus','coccyx','cocked','cockle','cocoas','cocoon','codded','coddle','codger','codify','coding','coerce','coeval','coffee',
     'coffer','coffin','cogent','cognac','cohere','cohort','coifed','coiled','coined','coital','coitus','coking','colder','coldly','collar','collie',
     'colons','colony','colors','column','combat','combed','combos','comedy','comely','comers','comets','comics','coming','comity','commas','commit',

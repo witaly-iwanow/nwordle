@@ -210,7 +210,7 @@ const guessList = [
     'desert','design','desire','desist','despot','detach','detail','detain','detect','deters','detest','detour','deuces','device','devils','devise',
     'devoid','devote','devour','devout','dewier','dewlap','dharma','dhotis','diadem','dialed','dialog','diaper','diatom','dibble','dicier','dicing',
     'dicker','dickey','dickie','dictum','diddle','diesel','dieted','dieter','differ','digest','digger','digits','diking','dilate','dilute','dimmed',
-    'dimmer','dimple','dimwit','diners','dinged','dinghy','dining','dinned','dinner','diodes','dioxin','dipole','dipped','dipper','direct','direst',
+    'dimmer','dimple','dimwit','diners','dinged','dinghy','dining','dinned','dinner','diodes','dioxin','dipole','dipped','dipper','direct','direly','direst',
     'dirges','disarm','disbar','discos','discus','dished','dishes','dismal','dismay','disown','dispel','dissed','disses','distil','disuse','dither',
     'dittos','divans','divers','divert','divest','divide','divine','diving','divots','djinni','djinns','doable','docent','docile','docked','docket',
     'doctor','dodder','dodged','dodger','dodges','dodoes','doffed','dogged','doggie','dogies','dogmas','doings','doling','dollar','dolled','dollop',

@@ -142,7 +142,7 @@ const guessList = [
     'binary','binder','binged','binges','binned','bionic','biopsy','bipeds','birded','birdie','births','bisect','bishop','bisons','bisque','bistro',
     'bitchy','biting','bitmap','bitten','bitter','blacks','blades','blamed','blamer','blames','blanch','blanks','blared','blares','blasts','blazed',
     'blazer','blazes','blazon','bleach','bleary','bleats','bleeds','bleeps','blench','blends','blight','blimps','blinds','blinks','blintz','blithe',
-    'bloats','blocks','blonde','blonds','bloods','bloody','blooms','blotch','blouse','blower','blowsy','blowup','blowzy','bluest','bluffs','bluing',
+    'bloats','blocks','blocky','blonde','blonds','bloods','bloody','blooms','blotch','blouse','blower','blowsy','blowup','blowzy','bluest','bluffs','bluing',
     'bluish','blunts','blurbs','blurry','blurts','boards','boasts','boated','boater','bobbed','bobbin','bobble','bobcat','bodega','bodice','bodies',
     'bodily','boding','bodkin','bogeys','bogged','boggle','bogied','bogies','boiled','boiler','bolder','boldly','bolero','bolted','bombed','bomber',
     'bonbon','bonded','boners','bonged','bongos','bonier','boning','bonito','bonnet','bonnie','bonsai','boobed','boodle','boogie','booing','booked',

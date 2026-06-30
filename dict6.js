@@ -281,7 +281,7 @@ const guessList = [
     'gulped','gumbos','gummed','gunman','gunmen','gunned','gunner','gurgle','gurney','gushed','gusher','gushes','gusset','gusted','gutted','gutter',
     'guying','guzzle','gybing','gypped','gypsum','gyrate','habits','hacked','hacker','hackle','haggle','hailed','hairdo','haired','halest','haling',
     'hallow','haloed','haloes','halted','halter','halved','halves','hamlet','hammed','hammer','hamper','handed','handle','hangar','hanged','hanger',
-    'hanker','hankie','hansom','happen','harass','harbor','harden','harder','hardly','harems','haring','harked','harken','harlot','harmed','harped',
+    'hanker','hankie','hansom','happen','haptic','harass','harbor','harden','harder','hardly','harems','haring','harked','harken','harlot','harmed','harped',
     'harrow','hashed','hashes','hassle','hasted','hasten','hastes','haters','hating','hatred','hatted','hatter','hauled','hauler','haunch','haunts',
     'havens','having','hawing','hawked','hawker','hawser','haying','haymow','hazard','hazels','hazier','hazily','hazing','hazmat','headed','header',
     'healed','healer','health','heaped','hearer','hearse','hearth','hearts','hearty','heated','heater','heaths','heaved','heaven','heaves','heckle',
